@@ -1,5 +1,8 @@
-# This is example repo
+# This is example repo with Hello World application
 
-## This is subtitle.
+## How to launch
+
+- install python
+- Execute python main.py
 
 
